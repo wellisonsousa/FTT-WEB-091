@@ -2,10 +2,10 @@
 
 ## Wellison Sousa - RA: 081180040
 
-Linguagem de Programação III
+Linguagem de Programação III  
 
 ## WEB API
-GET - SELECT
-PUT - UPDATE
-DELETE - DELETE
-POST - INSERT
+GET - SELECT  
+PUT - UPDATE  
+DELETE - DELETE  
+POST - INSERT  
